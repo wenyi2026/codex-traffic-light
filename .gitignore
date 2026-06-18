@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Build outputs
+build/
+build_installer/
+installer_dist/
+manual_render/
+test_runs/
+dist/
+
+# Local runtime state
+codex_status.json
+codex_traffic_light.config.json
+*.log
+
+# Temporary screenshots and diagnostics
+*_screenshot.png
+*corner_check.png
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Installer/generated specs can be regenerated but are currently kept in source.
+*.tmp
