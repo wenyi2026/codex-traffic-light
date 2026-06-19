@@ -24,10 +24,10 @@ Codex Traffic Light floats above the desktop and shows the current Codex state w
 
 ## Download
 
-For normal users, download the latest installer from the GitHub Releases page:
+For normal users, download the latest installer from:
 
 ```text
-CodexTrafficLightInstaller-v1.2.0.exe
+release-assets/CodexTrafficLightInstaller-v1.2.0.exe
 ```
 
 After installation, open Codex. The traffic-light window should appear automatically.
